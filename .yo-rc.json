@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "pl.haladyj",
+      "nativeLanguage": "pl"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "fmsJHipster",
+    "packageName": "pl.haladyj",
+    "packageFolder": "pl/haladyj",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjY2ZGJkZGQxOWU4MTM2MjQwYzI0NjAyNzYyOGEyNDMyZjQ5MGU4ODdmZTYxMjVmZGRlZTUxODNkZGE2YjlhMDJlNWM3MTg5MWQyOTM1M2U4N2Y4ZGE3M2UzMDQ1N2QzNzQ5Y2FkNDI5YTVkMjE3ZDk4NjA0YTlhZWFlNGUzODU=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pl",
+    "languages": ["pl"],
+    "blueprints": []
+  }
+}
